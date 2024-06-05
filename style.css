@@ -216,6 +216,7 @@ hr{
     font-weight: 600px;
     background: transparent;
     padding: 10px;
+      background: none;
   }
 
   .btn-submit{
